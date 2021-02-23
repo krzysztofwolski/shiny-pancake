@@ -20,5 +20,8 @@
   "devDependencies": {
     "@grupoboticario/news-fragments": "^1.9.1",
     "release-it": "^14.4.1"
+  },
+  "dependencies": {
+    "relnote": "file:relnote"
   }
 }
