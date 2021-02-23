@@ -1,0 +1,20 @@
+{
+  "github": {
+    "release": true
+  },
+  "plugins": {
+    "@grupoboticario/news-fragments": {
+      "changelogDateFormat": "DD-MM-YYYY",
+      "fragmentsFolder": "release-notes",
+      "fragmentsTypes": [
+        { "title": "Introduction", "extension": "intro.md" },
+        { "title": "Features", "extension": "feature.md" },
+        { "title": "Bugfixes", "extension": "bugfix.md" },
+        { "title": "Documentation", "extension": "doc.md" },
+        { "title": "Deprecations", "extension": "deprecated.md" },
+        { "title": "Breaking changes", "extension": "breaking.md" },
+        { "title": "Misc", "extension": "misc.md" }
+      ]
+    }
+  }
+}
