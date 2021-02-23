@@ -2,6 +2,9 @@
   "github": {
     "release": true
   },
+  "npm": {
+    "publish": false
+  },
   "plugins": {
     "@grupoboticario/news-fragments": {
       "changelogDateFormat": "DD-MM-YYYY",
