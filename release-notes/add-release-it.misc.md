@@ -1,1 +1,0 @@
-File description of release-it *PR*.
