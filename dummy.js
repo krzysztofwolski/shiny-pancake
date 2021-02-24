@@ -1,1 +1,2 @@
+// deprecated
 console.log("Hi")
