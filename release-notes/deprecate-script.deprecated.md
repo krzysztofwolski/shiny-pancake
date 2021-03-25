@@ -1,1 +1,0 @@
-Dummy script is now deprecated. Use `echo` instead.
