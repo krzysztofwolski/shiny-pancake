@@ -5,7 +5,7 @@
 
 ## Features
 * ## Release note manager
-To add note, run &#x60;npx relnote new&#x60;
+To add note, run `npx relnote new`
 
 ## Misc
 * File description of release-it *PR*.
